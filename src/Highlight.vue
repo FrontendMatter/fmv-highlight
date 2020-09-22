@@ -11,7 +11,7 @@
 
 <style>
   .highlight {
-    white-space: pre-wrap;
+    white-space: pre-wrap !important;
   }
   .hljs {
     padding: 0;

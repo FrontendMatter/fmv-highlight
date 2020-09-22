@@ -1,6 +1,6 @@
 {
   "name": "fmv-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syntax Highlight Vue Component using Highlight.js & js-beautify",
   "scripts": {
     "build": "rollup -c --environment BUILD:production",
